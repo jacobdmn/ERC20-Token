@@ -1,1 +1,1 @@
-# ERC20-Token for a Voting smart contract
+## ERC20-Token for a Voting smart contract
